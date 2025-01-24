@@ -1,5 +1,5 @@
 # Bayesian-hierarchical-model-for-PI
-Model code repository for paper "Early detection of entorhinal cortex dysfunction in Subjective Cognitive Decline: A computational approach to path integration deficits". 
+Model code repository for "Early detection of entorhinal cortex dysfunction in Subjective Cognitive Decline: A computational approach to path integration deficits". 
 ## Installing dependencies
 To install the dependencies please use any of the following:
 ### pip
