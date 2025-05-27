@@ -1,5 +1,6 @@
 # Bayesian-hierarchical-model-for-PI
-Model code repository for "Early detection of cognitive change in Subjective Cognitive Decline: A computational approach to path integration deficits". 
+Code repository for the model used in "Path integration impairments reveal early cognitive changes in Subjective Cognitive Decline".
+ 
 ## Installing dependencies
 To install the dependencies please use any of the following:
 ### pip
