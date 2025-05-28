@@ -13,4 +13,5 @@ pip install --no-cache-dir -r requirements.txt
 ```bash
 conda env create --file environment.yml
 ```
-This will create an environment named `numpyro_env`.
+This will create an environment named `numpyro_env`. Please cite this work using the following DOI
+[![DOI](https://zenodo.org/badge/921748022.svg)](https://doi.org/10.5281/zenodo.15532479)
